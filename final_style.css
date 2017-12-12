@@ -1,0 +1,168 @@
+p{
+  font-family: 'Cormorant', serif;
+  font-size: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-left: 370px;
+  padding-right: 400px;
+  text-align: justify;
+
+}
+
+header{
+
+
+
+}
+
+
+li{
+  display: inline;
+  font-family: 'Cormorant', serif;
+  font-size: 20px;
+  padding-left: 190px;
+  margin-top: 40px;
+  text-align: center;
+
+
+
+}
+
+ul{
+  margin-top: 10px;
+
+
+}
+
+.headerline hr{
+  background: black;
+  width: 60%;
+  height: 1px;
+  padding-left: 200px;
+}
+
+
+h1{
+  font-family: 'Cormorant', serif;
+  font-size: 90px;
+  margin-left: 130px;
+}
+
+h2{
+  font-family: 'Cormorant', serif;
+  font-size: 20px;
+  margin-left: 300px;
+  margin-bottom: 100px;
+
+}
+
+.photocredit{
+  font-family: 'Cormorant', serif;
+  font-size: 20px;
+  position: relative;
+  right: 490px;
+  top: 660px;
+}
+
+.headerphoto{
+  width: 40%;
+  float: left;
+  padding-left: 20px;
+  padding: 20px;
+  border-radius: 5%;
+
+
+}
+
+iframe{
+  margin-left: 345px;
+}
+.interviewlogo{
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+
+}
+
+hr{
+  background: black;
+  width: 60%;
+  height: 1px;
+  padding-left: 160px;
+
+}
+
+blockquote{
+  display: block;
+  font-family: 'Cormorant', sans-serif;
+  font-size: 120px;
+  text-align: center;
+}
+
+
+a:visited{
+  color: black;
+}
+
+a:hover{
+  text-decoration: overline;
+  transition-duration: 0.2s;
+}
+
+.materialboxed{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5%;
+}
+
+
+.footer {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin-top: 130px;
+  padding: 20px;
+  background-color: black;
+  text-align: center;
+  font-family: Asar;
+  font-size: 30px;
+}
+
+.footerlogo{
+  position: relative;
+  right: 500px;
+
+}
+
+.footertext{
+  font-family: 'Cormorant', sans-serif;
+  color: white;
+  position: relative;
+  bottom: 100px;
+  text-align: center;
+}
+
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: black; /* Set a background color */
+    font-family: 'Cormorant', sans-serif;
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+}
+
+#myBtn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+}
